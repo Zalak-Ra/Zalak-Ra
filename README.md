@@ -40,7 +40,6 @@
 ## 📚 Currently Learning
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=plastic&logo=langchain&logoColor=white)
-![Ray](https://img.shields.io/badge/Ray-028CF0?style=plastic&logo=ray&logoColor=white)
 ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=plastic&logo=apacheflink&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white)
